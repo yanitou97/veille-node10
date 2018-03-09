@@ -1,1 +1,1 @@
-#enregistrement{display:flex}
+#enregistrement{display:flex;justify-content:center}#chat{display:flex;justify-content:center;flex-direction:column;margin:0 auto}#chat table,#chat td,#chat th,#chat tr{border:1px solid #000;width:75%;padding:50px;border-collapse:collapse;margin:30px}

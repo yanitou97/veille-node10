@@ -61,7 +61,7 @@ Pour établir une communication socket il faut un premier appel de
  }
 
  function afficher_table_user(data){
- 	let sChaine = '';
+ 	let sChaine = '<tr><th>ID</th><th>Nom</th></tr>';
 	 	for(id in data){
 	 		sChaine += '<tr>'
 	 				+  '<td>' + id + '</td>'
